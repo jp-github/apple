@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as s,F as a,p as n,e as p,b as c}from"./index.08f8984e.js";const d={},o=e=>(n("data-v-3cc14482"),e=e(),p(),e),r=o(()=>c("p",null,"Support",-1)),l=o(()=>c("p",null,"\u5F85\u5B8C\u6210...",-1));function u(e,i){return _(),s(a,null,[r,l],64)}const x=t(d,[["render",u],["__scopeId","data-v-3cc14482"]]);export{x as default};

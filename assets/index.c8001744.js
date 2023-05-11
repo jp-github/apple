@@ -1,0 +1,1 @@
+import{_,o as c,c as o,F as s,p as n,e as d,b as a}from"./index.08f8984e.js";const p={},t=e=>(n("data-v-4a189a72"),e=e(),d(),e),r=t(()=>a("p",null,"Watch",-1)),l=t(()=>a("p",null,"\u5F85\u5B8C\u6210...",-1));function i(e,u){return c(),o(s,null,[r,l],64)}const h=_(p,[["render",i],["__scopeId","data-v-4a189a72"]]);export{h as default};
